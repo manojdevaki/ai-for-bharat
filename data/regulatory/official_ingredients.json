@@ -1,0 +1,2605 @@
+{
+  "metadata": {
+    "total_ingredients": 58,
+    "data_sources": [
+      "WIKIPEDIA_OFFICIAL_CITATIONS",
+      "CODEX_ALIMENTARIUS"
+    ],
+    "fetch_date": "2026-01-29T03:09:09.790763",
+    "data_quality": "OFFICIAL_SOURCES",
+    "no_synthetic_data": true,
+    "source_description": "Data sourced from Wikipedia (citing official regulations) and Codex Alimentarius standards"
+  },
+  "ingredients": [
+    {
+      "ingredient_id": "E100",
+      "standard_name": "Curcumin",
+      "e_number": "E100",
+      "chemical_name": "Curcumin",
+      "common_names": [
+        "Curcumin"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789566",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E101",
+      "standard_name": "Riboflavin",
+      "e_number": "E101",
+      "chemical_name": "Riboflavin",
+      "common_names": [
+        "Riboflavin"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789698",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E102",
+      "standard_name": "Tartrazine",
+      "e_number": "E102",
+      "chemical_name": "Tartrazine",
+      "common_names": [
+        "Tartrazine"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789716",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E104",
+      "standard_name": "Quinoline Yellow",
+      "e_number": "E104",
+      "chemical_name": "Quinoline Yellow",
+      "common_names": [
+        "Quinoline Yellow"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789729",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E110",
+      "standard_name": "Sunset Yellow FCF",
+      "e_number": "E110",
+      "chemical_name": "Sunset Yellow FCF",
+      "common_names": [
+        "Sunset Yellow FCF"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789741",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E120",
+      "standard_name": "Cochineal",
+      "e_number": "E120",
+      "chemical_name": "Cochineal",
+      "common_names": [
+        "Cochineal"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789804",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E122",
+      "standard_name": "Carmoisine",
+      "e_number": "E122",
+      "chemical_name": "Carmoisine",
+      "common_names": [
+        "Carmoisine"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789816",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E123",
+      "standard_name": "Amaranth",
+      "e_number": "E123",
+      "chemical_name": "Amaranth",
+      "common_names": [
+        "Amaranth"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789827",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E124",
+      "standard_name": "Ponceau 4R",
+      "e_number": "E124",
+      "chemical_name": "Ponceau 4R",
+      "common_names": [
+        "Ponceau 4R"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789837",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E127",
+      "standard_name": "Erythrosine",
+      "e_number": "E127",
+      "chemical_name": "Erythrosine",
+      "common_names": [
+        "Erythrosine"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789848",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E129",
+      "standard_name": "Allura Red AC",
+      "e_number": "E129",
+      "chemical_name": "Allura Red AC",
+      "common_names": [
+        "Allura Red AC"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789859",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E131",
+      "standard_name": "Patent Blue V",
+      "e_number": "E131",
+      "chemical_name": "Patent Blue V",
+      "common_names": [
+        "Patent Blue V"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789870",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E132",
+      "standard_name": "Indigo Carmine",
+      "e_number": "E132",
+      "chemical_name": "Indigo Carmine",
+      "common_names": [
+        "Indigo Carmine"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789881",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E133",
+      "standard_name": "Brilliant Blue FCF",
+      "e_number": "E133",
+      "chemical_name": "Brilliant Blue FCF",
+      "common_names": [
+        "Brilliant Blue FCF"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789891",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E140",
+      "standard_name": "Chlorophylls",
+      "e_number": "E140",
+      "chemical_name": "Chlorophylls",
+      "common_names": [
+        "Chlorophylls"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789902",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E141",
+      "standard_name": "Copper Chlorophylls",
+      "e_number": "E141",
+      "chemical_name": "Copper Chlorophylls",
+      "common_names": [
+        "Copper Chlorophylls"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789912",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E150a",
+      "standard_name": "Plain Caramel",
+      "e_number": "E150a",
+      "chemical_name": "Plain Caramel",
+      "common_names": [
+        "Plain Caramel"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789923",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E150b",
+      "standard_name": "Caustic Sulfite Caramel",
+      "e_number": "E150b",
+      "chemical_name": "Caustic Sulfite Caramel",
+      "common_names": [
+        "Caustic Sulfite Caramel"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789934",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E150c",
+      "standard_name": "Ammonia Caramel",
+      "e_number": "E150c",
+      "chemical_name": "Ammonia Caramel",
+      "common_names": [
+        "Ammonia Caramel"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789974",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E150d",
+      "standard_name": "Sulfite Ammonia Caramel",
+      "e_number": "E150d",
+      "chemical_name": "Sulfite Ammonia Caramel",
+      "common_names": [
+        "Sulfite Ammonia Caramel"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789987",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E160a",
+      "standard_name": "Beta-Carotene",
+      "e_number": "E160a",
+      "chemical_name": "Beta-Carotene",
+      "common_names": [
+        "Beta-Carotene"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.789998",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E160b",
+      "standard_name": "Annatto",
+      "e_number": "E160b",
+      "chemical_name": "Annatto",
+      "common_names": [
+        "Annatto"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790023",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E160c",
+      "standard_name": "Paprika Oleoresin",
+      "e_number": "E160c",
+      "chemical_name": "Paprika Oleoresin",
+      "common_names": [
+        "Paprika Oleoresin"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790044",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E162",
+      "standard_name": "Beetroot Red",
+      "e_number": "E162",
+      "chemical_name": "Beetroot Red",
+      "common_names": [
+        "Beetroot Red"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790055",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E163",
+      "standard_name": "Anthocyanins",
+      "e_number": "E163",
+      "chemical_name": "Anthocyanins",
+      "common_names": [
+        "Anthocyanins"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790069",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E170",
+      "standard_name": "Calcium Carbonate",
+      "e_number": "E170",
+      "chemical_name": "Calcium Carbonate",
+      "common_names": [
+        "Calcium Carbonate"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790087",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E171",
+      "standard_name": "Titanium Dioxide",
+      "e_number": "E171",
+      "chemical_name": "Titanium Dioxide",
+      "common_names": [
+        "Titanium Dioxide"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS",
+        "WIKIPEDIA_OFFICIAL_CITATIONS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790099",
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008 (via Wikipedia)"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR (via Wikipedia)"
+      },
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E172",
+      "standard_name": "Iron Oxides",
+      "e_number": "E172",
+      "chemical_name": "Iron Oxides",
+      "common_names": [
+        "Iron Oxides"
+      ],
+      "category": "food_color",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790110",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E200",
+      "standard_name": "Sorbic Acid",
+      "e_number": "E200",
+      "chemical_name": "Sorbic Acid",
+      "common_names": [
+        "Sorbic Acid"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790131",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E202",
+      "standard_name": "Potassium Sorbate",
+      "e_number": "E202",
+      "chemical_name": "Potassium Sorbate",
+      "common_names": [
+        "Potassium Sorbate"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790143",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E210",
+      "standard_name": "Benzoic Acid",
+      "e_number": "E210",
+      "chemical_name": "Benzoic Acid",
+      "common_names": [
+        "Benzoic Acid"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790153",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E211",
+      "standard_name": "Sodium Benzoate",
+      "e_number": "E211",
+      "chemical_name": "Sodium Benzoate",
+      "common_names": [
+        "Sodium Benzoate"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790164",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E220",
+      "standard_name": "Sulfur Dioxide",
+      "e_number": "E220",
+      "chemical_name": "Sulfur Dioxide",
+      "common_names": [
+        "Sulfur Dioxide"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790175",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E221",
+      "standard_name": "Sodium Sulfite",
+      "e_number": "E221",
+      "chemical_name": "Sodium Sulfite",
+      "common_names": [
+        "Sodium Sulfite"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790186",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E223",
+      "standard_name": "Sodium Metabisulfite",
+      "e_number": "E223",
+      "chemical_name": "Sodium Metabisulfite",
+      "common_names": [
+        "Sodium Metabisulfite"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790197",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E224",
+      "standard_name": "Potassium Metabisulfite",
+      "e_number": "E224",
+      "chemical_name": "Potassium Metabisulfite",
+      "common_names": [
+        "Potassium Metabisulfite"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790207",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E249",
+      "standard_name": "Potassium Nitrite",
+      "e_number": "E249",
+      "chemical_name": "Potassium Nitrite",
+      "common_names": [
+        "Potassium Nitrite"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790219",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E250",
+      "standard_name": "Sodium Nitrite",
+      "e_number": "E250",
+      "chemical_name": "Sodium Nitrite",
+      "common_names": [
+        "Sodium Nitrite"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790229",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E251",
+      "standard_name": "Sodium Nitrate",
+      "e_number": "E251",
+      "chemical_name": "Sodium Nitrate",
+      "common_names": [
+        "Sodium Nitrate"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790239",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E252",
+      "standard_name": "Potassium Nitrate",
+      "e_number": "E252",
+      "chemical_name": "Potassium Nitrate",
+      "common_names": [
+        "Potassium Nitrate"
+      ],
+      "category": "preservative",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790250",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E300",
+      "standard_name": "Ascorbic Acid",
+      "e_number": "E300",
+      "chemical_name": "Ascorbic Acid",
+      "common_names": [
+        "Ascorbic Acid"
+      ],
+      "category": "antioxidant",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790265",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E301",
+      "standard_name": "Sodium Ascorbate",
+      "e_number": "E301",
+      "chemical_name": "Sodium Ascorbate",
+      "common_names": [
+        "Sodium Ascorbate"
+      ],
+      "category": "antioxidant",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790291",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E302",
+      "standard_name": "Calcium Ascorbate",
+      "e_number": "E302",
+      "chemical_name": "Calcium Ascorbate",
+      "common_names": [
+        "Calcium Ascorbate"
+      ],
+      "category": "antioxidant",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790302",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E306",
+      "standard_name": "Tocopherols",
+      "e_number": "E306",
+      "chemical_name": "Tocopherols",
+      "common_names": [
+        "Tocopherols"
+      ],
+      "category": "antioxidant",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790312",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E307",
+      "standard_name": "Alpha-Tocopherol",
+      "e_number": "E307",
+      "chemical_name": "Alpha-Tocopherol",
+      "common_names": [
+        "Alpha-Tocopherol"
+      ],
+      "category": "antioxidant",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790323",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E320",
+      "standard_name": "Butylated Hydroxyanisole",
+      "e_number": "E320",
+      "chemical_name": "Butylated Hydroxyanisole",
+      "common_names": [
+        "Butylated Hydroxyanisole"
+      ],
+      "category": "antioxidant",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790333",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E321",
+      "standard_name": "Butylated Hydroxytoluene",
+      "e_number": "E321",
+      "chemical_name": "Butylated Hydroxytoluene",
+      "common_names": [
+        "Butylated Hydroxytoluene"
+      ],
+      "category": "antioxidant",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790344",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E322",
+      "standard_name": "Lecithin",
+      "e_number": "E322",
+      "chemical_name": "Lecithin",
+      "common_names": [
+        "Lecithin"
+      ],
+      "category": "antioxidant",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790354",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E500ii",
+      "standard_name": "Sodium Hydrogen Carbonate",
+      "e_number": "E500ii",
+      "chemical_name": "Sodium Hydrogen Carbonate",
+      "common_names": [
+        "Sodium Hydrogen Carbonate"
+      ],
+      "category": "raising_agent",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790366",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E503ii",
+      "standard_name": "Ammonium Hydrogen Carbonate",
+      "e_number": "E503ii",
+      "chemical_name": "Ammonium Hydrogen Carbonate",
+      "common_names": [
+        "Ammonium Hydrogen Carbonate"
+      ],
+      "category": "raising_agent",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790377",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E620",
+      "standard_name": "Glutamic Acid",
+      "e_number": "E620",
+      "chemical_name": "Glutamic Acid",
+      "common_names": [
+        "Glutamic Acid"
+      ],
+      "category": "flavor_enhancer",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790395",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E621",
+      "standard_name": "Monosodium Glutamate",
+      "e_number": "E621",
+      "chemical_name": "Monosodium Glutamate",
+      "common_names": [
+        "Monosodium Glutamate"
+      ],
+      "category": "flavor_enhancer",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790406",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E627",
+      "standard_name": "Disodium Guanylate",
+      "e_number": "E627",
+      "chemical_name": "Disodium Guanylate",
+      "common_names": [
+        "Disodium Guanylate"
+      ],
+      "category": "flavor_enhancer",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790417",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E631",
+      "standard_name": "Disodium Inosinate",
+      "e_number": "E631",
+      "chemical_name": "Disodium Inosinate",
+      "common_names": [
+        "Disodium Inosinate"
+      ],
+      "category": "flavor_enhancer",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790429",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E635",
+      "standard_name": "Disodium 5'-ribonucleotides",
+      "e_number": "E635",
+      "chemical_name": "Disodium 5'-ribonucleotides",
+      "common_names": [
+        "Disodium 5'-ribonucleotides"
+      ],
+      "category": "flavor_enhancer",
+      "international": {
+        "status": "approved",
+        "authority": "Codex Alimentarius",
+        "limits": "As per Codex standards",
+        "restrictions": "International food standards",
+        "source": "Codex Alimentarius Commission"
+      },
+      "data_sources": [
+        "CODEX_ALIMENTARIUS"
+      ],
+      "source_url": "https://www.fao.org/fao-who-codexalimentarius/",
+      "last_updated": "2026-01-29T03:09:09.790439",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E164",
+      "standard_name": "E number)",
+      "e_number": "E164",
+      "chemical_name": "E number)",
+      "common_names": [
+        "E number)"
+      ],
+      "category": "food_color",
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008 (via Wikipedia)"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR (via Wikipedia)"
+      },
+      "data_sources": [
+        "WIKIPEDIA_OFFICIAL_CITATIONS"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/E_number",
+      "last_updated": "2026-01-29T03:09:06.304961",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E175",
+      "standard_name": "E number)",
+      "e_number": "E175",
+      "chemical_name": "E number)",
+      "common_names": [
+        "E number)"
+      ],
+      "category": "food_color",
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008 (via Wikipedia)"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR (via Wikipedia)"
+      },
+      "data_sources": [
+        "WIKIPEDIA_OFFICIAL_CITATIONS"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/E_number",
+      "last_updated": "2026-01-29T03:09:06.305344",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    },
+    {
+      "ingredient_id": "E920",
+      "standard_name": "L-cysteine) approval in the EU",
+      "e_number": "E920",
+      "chemical_name": "L-cysteine) approval in the EU",
+      "common_names": [
+        "L-cysteine) approval in the EU"
+      ],
+      "category": "glazing_agent",
+      "eu": {
+        "status": "approved",
+        "authority": "EFSA",
+        "limits": "As per EU Regulation 1333/2008",
+        "restrictions": "Standard labeling requirements",
+        "source": "EU Regulation 1333/2008 (via Wikipedia)"
+      },
+      "us": {
+        "status": "approved",
+        "authority": "FDA",
+        "limits": "As per FDA CFR",
+        "restrictions": "Standard FDA requirements",
+        "source": "FDA CFR (via Wikipedia)"
+      },
+      "data_sources": [
+        "WIKIPEDIA_OFFICIAL_CITATIONS"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/E_number",
+      "last_updated": "2026-01-29T03:09:06.306147",
+      "india": {
+        "status": "check_fssai",
+        "authority": "FSSAI",
+        "limits": "Refer to FSSAI regulations",
+        "restrictions": "Check FSSAI standards",
+        "source": "FSSAI Food Safety Standards"
+      },
+      "data_quality": "OFFICIAL_SOURCES",
+      "no_synthetic_data": true
+    }
+  ]
+}

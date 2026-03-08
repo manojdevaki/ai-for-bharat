@@ -1,0 +1,213 @@
+[
+  {
+    "ingredient_id": "E102",
+    "standard_name": "Tartrazine",
+    "e_number": "E102",
+    "chemical_name": "Tartrazine",
+    "common_names": ["Tartrazine", "FD&C Yellow No. 5", "Yellow 5", "CI 19140"],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared on label",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved_with_warning",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Warning label required: 'May have an adverse effect on activity and attention in children'",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP (Good Manufacturing Practice)",
+      "restrictions": "Must be declared as 'FD&C Yellow No. 5' or 'Tartrazine'",
+      "source": "FDA 21 CFR 74.705"
+    },
+    "notes": "EU requires warning due to EFSA 2008 study linking to hyperactivity in children"
+  },
+  {
+    "ingredient_id": "E110",
+    "standard_name": "Sunset Yellow FCF",
+    "e_number": "E110",
+    "chemical_name": "Disodium 6-hydroxy-5-[(4-sulfophenyl)azo]-2-naphthalenesulfonate",
+    "common_names": ["Sunset Yellow", "FD&C Yellow No. 6", "Orange Yellow S", "CI 15985"],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared on label",
+      "source": "FSSAI Food Safety Standards"
+    },
+    "eu": {
+      "status": "approved_with_warning",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Warning label required: 'May have an adverse effect on activity and attention in children'",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP",
+      "restrictions": "Must be declared as 'FD&C Yellow No. 6'",
+      "source": "FDA 21 CFR 74.706"
+    },
+    "banned_in": ["Norway", "Finland"],
+    "notes": "Banned in some Nordic countries due to precautionary principle"
+  },
+  {
+    "ingredient_id": "E211",
+    "standard_name": "Sodium Benzoate",
+    "e_number": "E211",
+    "chemical_name": "Sodium benzoate",
+    "common_names": ["Sodium Benzoate", "Benzoate of Soda"],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "750 ppm in beverages",
+      "restrictions": "Not permitted in certain food categories",
+      "source": "FSSAI Food Safety Standards"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Varies by food category",
+      "restrictions": "Maximum 150-500 mg/kg depending on product",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "0.1% maximum",
+      "restrictions": "GRAS (Generally Recognized As Safe)",
+      "source": "FDA 21 CFR 184.1733"
+    },
+    "notes": "Common preservative, concerns when combined with ascorbic acid (benzene formation)"
+  },
+  {
+    "ingredient_id": "E500ii",
+    "standard_name": "Sodium Hydrogen Carbonate",
+    "e_number": "E500ii",
+    "chemical_name": "Sodium hydrogen carbonate",
+    "common_names": ["Sodium Bicarbonate", "Baking Soda", "Sodium Hydrogen Carbonate"],
+    "category": "raising_agent",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared on label",
+      "source": "FSSAI Food Safety Standards"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP",
+      "restrictions": "GRAS status",
+      "source": "FDA 21 CFR 184.1736"
+    },
+    "notes": "Common raising agent, generally recognized as safe"
+  },
+  {
+    "ingredient_id": "E503ii",
+    "standard_name": "Ammonium Hydrogen Carbonate",
+    "e_number": "E503ii",
+    "chemical_name": "Ammonium hydrogen carbonate",
+    "common_names": ["Ammonium Bicarbonate", "Hartshorn", "Baker's Ammonia"],
+    "category": "raising_agent",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared on label",
+      "source": "FSSAI Food Safety Standards"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP",
+      "restrictions": "GRAS status",
+      "source": "FDA 21 CFR 184.1135"
+    },
+    "notes": "Traditional raising agent, decomposes during baking leaving no residue"
+  },
+  {
+    "ingredient_id": "E621",
+    "standard_name": "Monosodium Glutamate",
+    "e_number": "E621",
+    "chemical_name": "Monosodium glutamate",
+    "common_names": ["MSG", "Monosodium Glutamate", "Ajinomoto", "Vetsin"],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared on label",
+      "source": "FSSAI Food Safety Standards"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Must be declared",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP",
+      "restrictions": "GRAS status, must be declared",
+      "source": "FDA 21 CFR 182.1"
+    },
+    "notes": "Controversial but approved globally; some individuals report sensitivity"
+  },
+  {
+    "ingredient_id": "E320",
+    "standard_name": "Butylated Hydroxyanisole",
+    "e_number": "E320",
+    "chemical_name": "Butylated hydroxyanisole (BHA)",
+    "common_names": ["BHA", "Butylated Hydroxyanisole"],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "200 ppm in fats and oils",
+      "restrictions": "Limited use",
+      "source": "FSSAI Food Safety Standards"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Varies by food category",
+      "restrictions": "Under review, restricted use",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "0.02% of fat content",
+      "restrictions": "GRAS status",
+      "source": "FDA 21 CFR 172.110"
+    },
+    "notes": "Classified as possibly carcinogenic by some agencies, but approved at low levels"
+  }
+]

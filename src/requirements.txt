@@ -1,0 +1,13 @@
+# AWS SDK
+boto3>=1.34.0
+botocore>=1.34.0
+
+# WhatsApp/HTTP
+requests>=2.31.0
+
+# Data processing
+python-dotenv>=1.0.0
+
+# Testing (optional for MVP)
+pytest>=7.4.0
+moto>=4.2.0

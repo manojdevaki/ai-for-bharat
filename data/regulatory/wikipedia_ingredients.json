@@ -1,0 +1,3693 @@
+[
+  {
+    "ingredient_id": "E100",
+    "standard_name": "Curcumin",
+    "e_number": "E100",
+    "chemical_name": "Curcumin",
+    "common_names": [
+      "Curcumin",
+      "from turmeric"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.700935"
+  },
+  {
+    "ingredient_id": "E101",
+    "standard_name": "Riboflavin",
+    "e_number": "E101",
+    "chemical_name": "Riboflavin",
+    "common_names": [
+      "Riboflavin",
+      "Vitamin B2",
+      "formerly called lactoflavin"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.700952"
+  },
+  {
+    "ingredient_id": "E101a",
+    "standard_name": "Riboflavin-5'-Phosphate",
+    "e_number": "E101a",
+    "chemical_name": "Riboflavin-5'-Phosphate",
+    "common_names": [
+      "Riboflavin-5'-Phosphate"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "not_specified",
+      "authority": "FSSAI",
+      "limits": "Check FSSAI regulations",
+      "restrictions": "Refer to FSSAI standards",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.700960"
+  },
+  {
+    "ingredient_id": "E102",
+    "standard_name": "Tartrazine",
+    "e_number": "E102",
+    "chemical_name": "Tartrazine",
+    "common_names": [
+      "Tartrazine",
+      "FD&C Yellow 5"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared on label",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.700966"
+  },
+  {
+    "ingredient_id": "E104",
+    "standard_name": "Quinoline Yellow WS",
+    "e_number": "E104",
+    "chemical_name": "Quinoline Yellow WS",
+    "common_names": [
+      "Quinoline Yellow WS"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved_with_warning",
+      "authority": "EFSA",
+      "limits": "Quantum satis with restrictions",
+      "restrictions": "Restricted use",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.700970"
+  },
+  {
+    "ingredient_id": "E110",
+    "standard_name": "Sunset Yellow FCF",
+    "e_number": "E110",
+    "chemical_name": "Sunset Yellow FCF",
+    "common_names": [
+      "Sunset Yellow FCF",
+      "Orange Yellow S",
+      "FD&C Yellow 6"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared on label",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved_with_warning",
+      "authority": "EFSA",
+      "limits": "Quantum satis with restrictions",
+      "restrictions": "Warning labels required",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "Banned in: norway; May require warning labels in some jurisdictions; Undergoing voluntary phase-out in some regions",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.700979"
+  },
+  {
+    "ingredient_id": "E120",
+    "standard_name": "Cochineal",
+    "e_number": "E120",
+    "chemical_name": "Cochineal",
+    "common_names": [
+      "Cochineal",
+      "Carminic acid",
+      "Carmine",
+      "Natural Red 4"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.700984"
+  },
+  {
+    "ingredient_id": "E122",
+    "standard_name": "Carmoisine",
+    "e_number": "E122",
+    "chemical_name": "Carmoisine",
+    "common_names": [
+      "Carmoisine",
+      "azorubine"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "Banned in: canada, japan, norway, usa; Undergoing voluntary phase-out in some regions",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.700990"
+  },
+  {
+    "ingredient_id": "E123",
+    "standard_name": "Amaranth",
+    "e_number": "E123",
+    "chemical_name": "Amaranth",
+    "common_names": [
+      "Amaranth",
+      "FD&C Red 2"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "Banned in: the united states",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.700996"
+  },
+  {
+    "ingredient_id": "E124",
+    "standard_name": "Ponceau 4R",
+    "e_number": "E124",
+    "chemical_name": "Ponceau 4R",
+    "common_names": [
+      "Ponceau 4R",
+      "Cochineal Red A",
+      "Brilliant Scarlet 4R"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved_with_warning",
+      "authority": "EFSA",
+      "limits": "Quantum satis with restrictions",
+      "restrictions": "Restricted use",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701000"
+  },
+  {
+    "ingredient_id": "E127",
+    "standard_name": "Erythrosine",
+    "e_number": "E127",
+    "chemical_name": "Erythrosine",
+    "common_names": [
+      "Erythrosine",
+      "FD&C Red 3"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "banned",
+      "authority": "FDA",
+      "limits": "Not permitted",
+      "restrictions": "Prohibited",
+      "source": "FDA CFR"
+    },
+    "notes": "Banned in: the us",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701005"
+  },
+  {
+    "ingredient_id": "E129",
+    "standard_name": "Allura Red AC",
+    "e_number": "E129",
+    "chemical_name": "Allura Red AC",
+    "common_names": [
+      "Allura Red AC",
+      "FD&C Red 40"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "Undergoing voluntary phase-out in some regions",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701012"
+  },
+  {
+    "ingredient_id": "E131",
+    "standard_name": "Patent Blue V",
+    "e_number": "E131",
+    "chemical_name": "Patent Blue V",
+    "common_names": [
+      "Patent Blue V"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "banned",
+      "authority": "FDA",
+      "limits": "Not permitted",
+      "restrictions": "Prohibited",
+      "source": "FDA CFR"
+    },
+    "notes": "Banned in: the us and australia",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701016"
+  },
+  {
+    "ingredient_id": "E132",
+    "standard_name": "Indigo carmine",
+    "e_number": "E132",
+    "chemical_name": "Indigo carmine",
+    "common_names": [
+      "Indigo carmine",
+      "indigotine",
+      "FD&C Blue 2"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701023"
+  },
+  {
+    "ingredient_id": "E133",
+    "standard_name": "Brilliant blue FCF",
+    "e_number": "E133",
+    "chemical_name": "Brilliant blue FCF",
+    "common_names": [
+      "Brilliant blue FCF",
+      "FD&C Blue 1"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701029"
+  },
+  {
+    "ingredient_id": "E140",
+    "standard_name": "Chlorophylls and Chlorophyllins",
+    "e_number": "E140",
+    "chemical_name": "Chlorophylls and Chlorophyllins",
+    "common_names": [
+      "Chlorophylls and Chlorophyllins"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701033"
+  },
+  {
+    "ingredient_id": "E141",
+    "standard_name": "Copper complexes of chlorophylls and chlorophyllins",
+    "e_number": "E141",
+    "chemical_name": "Copper complexes of chlorophylls and chlorophyllins",
+    "common_names": [
+      "Copper complexes of chlorophylls and chlorophyllins"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701037"
+  },
+  {
+    "ingredient_id": "E142",
+    "standard_name": "Green S",
+    "e_number": "E142",
+    "chemical_name": "Green S",
+    "common_names": [
+      "Green S"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701040"
+  },
+  {
+    "ingredient_id": "E150a",
+    "standard_name": "Plain caramel",
+    "e_number": "E150a",
+    "chemical_name": "Plain caramel",
+    "common_names": [
+      "Plain caramel"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701044"
+  },
+  {
+    "ingredient_id": "E150b",
+    "standard_name": "Caustic sulfite caramel",
+    "e_number": "E150b",
+    "chemical_name": "Caustic sulfite caramel",
+    "common_names": [
+      "Caustic sulfite caramel"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701048"
+  },
+  {
+    "ingredient_id": "E150c",
+    "standard_name": "Ammonia caramel",
+    "e_number": "E150c",
+    "chemical_name": "Ammonia caramel",
+    "common_names": [
+      "Ammonia caramel"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701052"
+  },
+  {
+    "ingredient_id": "E150d",
+    "standard_name": "Sulfite ammonia caramel",
+    "e_number": "E150d",
+    "chemical_name": "Sulfite ammonia caramel",
+    "common_names": [
+      "Sulfite ammonia caramel"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701055"
+  },
+  {
+    "ingredient_id": "E151",
+    "standard_name": "Black PN",
+    "e_number": "E151",
+    "chemical_name": "Black PN",
+    "common_names": [
+      "Black PN",
+      "Brilliant Black BN"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701059"
+  },
+  {
+    "ingredient_id": "E153",
+    "standard_name": "Vegetable carbon",
+    "e_number": "E153",
+    "chemical_name": "Vegetable carbon",
+    "common_names": [
+      "Vegetable carbon"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "banned",
+      "authority": "FDA",
+      "limits": "Not permitted",
+      "restrictions": "Prohibited",
+      "source": "FDA CFR"
+    },
+    "notes": "Banned in: the us",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701063"
+  },
+  {
+    "ingredient_id": "E155",
+    "standard_name": "Brown HT",
+    "e_number": "E155",
+    "chemical_name": "Brown HT",
+    "common_names": [
+      "Brown HT",
+      "chocolate brown HT"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm maximum",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701067"
+  },
+  {
+    "ingredient_id": "E160a",
+    "standard_name": "Alpha-carotene",
+    "e_number": "E160a",
+    "chemical_name": "Alpha-carotene",
+    "common_names": [
+      "Alpha-carotene",
+      "Beta-carotene",
+      "Gamma-carotene"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701072"
+  },
+  {
+    "ingredient_id": "E160b",
+    "standard_name": "Annatto",
+    "e_number": "E160b",
+    "chemical_name": "Annatto",
+    "common_names": [
+      "Annatto",
+      "bixin",
+      "norbixin"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701076"
+  },
+  {
+    "ingredient_id": "E160c",
+    "standard_name": "Paprika oleoresin:",
+    "e_number": "E160c",
+    "chemical_name": "Paprika oleoresin:",
+    "common_names": [
+      "Paprika oleoresin:",
+      "i",
+      "capsanthin",
+      "ii",
+      "capsorubin"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701081"
+  },
+  {
+    "ingredient_id": "E160d",
+    "standard_name": "Lycopene",
+    "e_number": "E160d",
+    "chemical_name": "Lycopene",
+    "common_names": [
+      "Lycopene"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved_with_warning",
+      "authority": "EFSA",
+      "limits": "Quantum satis with restrictions",
+      "restrictions": "Restricted use",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701085"
+  },
+  {
+    "ingredient_id": "E160e",
+    "standard_name": "Beta-apo-8'-carotenal",
+    "e_number": "E160e",
+    "chemical_name": "Beta-apo-8'-carotenal",
+    "common_names": [
+      "Beta-apo-8'-carotenal",
+      "C 30"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701089"
+  },
+  {
+    "ingredient_id": "E162",
+    "standard_name": "Beetroot Red",
+    "e_number": "E162",
+    "chemical_name": "Beetroot Red",
+    "common_names": [
+      "Beetroot Red",
+      "Betanin"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701093"
+  },
+  {
+    "ingredient_id": "E163",
+    "standard_name": "Anthocyanins",
+    "e_number": "E163",
+    "chemical_name": "Anthocyanins",
+    "common_names": [
+      "Anthocyanins"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701097"
+  },
+  {
+    "ingredient_id": "E170",
+    "standard_name": "Calcium carbonate",
+    "e_number": "E170",
+    "chemical_name": "Calcium carbonate",
+    "common_names": [
+      "Calcium carbonate",
+      "Chalk"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701101"
+  },
+  {
+    "ingredient_id": "E171",
+    "standard_name": "Titanium dioxide",
+    "e_number": "E171",
+    "chemical_name": "Titanium dioxide",
+    "common_names": [
+      "Titanium dioxide"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "banned",
+      "authority": "FSSAI",
+      "limits": "Not permitted",
+      "restrictions": "Banned due to safety concerns",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701106"
+  },
+  {
+    "ingredient_id": "E172",
+    "standard_name": "Iron oxides and iron hydroxides",
+    "e_number": "E172",
+    "chemical_name": "Iron oxides and iron hydroxides",
+    "common_names": [
+      "Iron oxides and iron hydroxides"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "approved",
+      "authority": "FDA",
+      "limits": "GMP - Good Manufacturing Practice",
+      "restrictions": "Standard FDA requirements",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701110"
+  },
+  {
+    "ingredient_id": "E173",
+    "standard_name": "Aluminium",
+    "e_number": "E173",
+    "chemical_name": "Aluminium",
+    "common_names": [
+      "Aluminium"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "not_specified",
+      "authority": "FSSAI",
+      "limits": "Check FSSAI regulations",
+      "restrictions": "Refer to FSSAI standards",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701113"
+  },
+  {
+    "ingredient_id": "E174",
+    "standard_name": "Silver",
+    "e_number": "E174",
+    "chemical_name": "Silver",
+    "common_names": [
+      "Silver"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "not_specified",
+      "authority": "FSSAI",
+      "limits": "Check FSSAI regulations",
+      "restrictions": "Refer to FSSAI standards",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701120"
+  },
+  {
+    "ingredient_id": "E175",
+    "standard_name": "Gold",
+    "e_number": "E175",
+    "chemical_name": "Gold",
+    "common_names": [
+      "Gold"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "not_specified",
+      "authority": "FSSAI",
+      "limits": "Check FSSAI regulations",
+      "restrictions": "Refer to FSSAI standards",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701124"
+  },
+  {
+    "ingredient_id": "E180",
+    "standard_name": "Pigment Rubine",
+    "e_number": "E180",
+    "chemical_name": "Pigment Rubine",
+    "common_names": [
+      "Pigment Rubine",
+      "Lithol Rubine BK"
+    ],
+    "category": "food_color",
+    "india": {
+      "status": "not_specified",
+      "authority": "FSSAI",
+      "limits": "Check FSSAI regulations",
+      "restrictions": "Refer to FSSAI standards",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701128"
+  },
+  {
+    "ingredient_id": "E200",
+    "standard_name": "Sorbic acid",
+    "e_number": "E200",
+    "chemical_name": "Sorbic acid",
+    "common_names": [
+      "Sorbic acid"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "1000 ppm",
+      "restrictions": "Not in certain categories",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701132"
+  },
+  {
+    "ingredient_id": "E202",
+    "standard_name": "Potassium sorbate",
+    "e_number": "E202",
+    "chemical_name": "Potassium sorbate",
+    "common_names": [
+      "Potassium sorbate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "1000 ppm",
+      "restrictions": "Not in certain categories",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701135"
+  },
+  {
+    "ingredient_id": "E203",
+    "standard_name": "Calcium sorbate",
+    "e_number": "E203",
+    "chemical_name": "Calcium sorbate",
+    "common_names": [
+      "Calcium sorbate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "1000 ppm",
+      "restrictions": "Not in certain categories",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701139"
+  },
+  {
+    "ingredient_id": "E210",
+    "standard_name": "Benzoic acid",
+    "e_number": "E210",
+    "chemical_name": "Benzoic acid",
+    "common_names": [
+      "Benzoic acid"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "750 ppm",
+      "restrictions": "Not in certain categories",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701143"
+  },
+  {
+    "ingredient_id": "E211",
+    "standard_name": "Sodium benzoate",
+    "e_number": "E211",
+    "chemical_name": "Sodium benzoate",
+    "common_names": [
+      "Sodium benzoate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "750 ppm in beverages",
+      "restrictions": "Not permitted in certain food categories",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701146"
+  },
+  {
+    "ingredient_id": "E212",
+    "standard_name": "Potassium benzoate",
+    "e_number": "E212",
+    "chemical_name": "Potassium benzoate",
+    "common_names": [
+      "Potassium benzoate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "750 ppm",
+      "restrictions": "Not in certain categories",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701149"
+  },
+  {
+    "ingredient_id": "E213",
+    "standard_name": "Calcium benzoate",
+    "e_number": "E213",
+    "chemical_name": "Calcium benzoate",
+    "common_names": [
+      "Calcium benzoate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "750 ppm",
+      "restrictions": "Not in certain categories",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701152"
+  },
+  {
+    "ingredient_id": "E214",
+    "standard_name": "Ethylparaben",
+    "e_number": "E214",
+    "chemical_name": "Ethylparaben",
+    "common_names": [
+      "Ethylparaben",
+      "ethyl para-hydroxybenzoate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "300 ppm",
+      "restrictions": "Limited use",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701156"
+  },
+  {
+    "ingredient_id": "E215",
+    "standard_name": "Sodium ethyl para-hydroxybenzoate",
+    "e_number": "E215",
+    "chemical_name": "Sodium ethyl para-hydroxybenzoate",
+    "common_names": [
+      "Sodium ethyl para-hydroxybenzoate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "300 ppm",
+      "restrictions": "Limited use",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701160"
+  },
+  {
+    "ingredient_id": "E218",
+    "standard_name": "Methylparaben",
+    "e_number": "E218",
+    "chemical_name": "Methylparaben",
+    "common_names": [
+      "Methylparaben",
+      "methyl para-hydroxybenzoate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "300 ppm",
+      "restrictions": "Limited use",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701164"
+  },
+  {
+    "ingredient_id": "E219",
+    "standard_name": "Sodium methyl para-hydroxybenzoate",
+    "e_number": "E219",
+    "chemical_name": "Sodium methyl para-hydroxybenzoate",
+    "common_names": [
+      "Sodium methyl para-hydroxybenzoate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "300 ppm",
+      "restrictions": "Limited use",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701167"
+  },
+  {
+    "ingredient_id": "E220",
+    "standard_name": "Sulfur dioxide",
+    "e_number": "E220",
+    "chemical_name": "Sulfur dioxide",
+    "common_names": [
+      "Sulfur dioxide"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "450 ppm",
+      "restrictions": "Not in meat products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701170"
+  },
+  {
+    "ingredient_id": "E221",
+    "standard_name": "Sodium sulfite",
+    "e_number": "E221",
+    "chemical_name": "Sodium sulfite",
+    "common_names": [
+      "Sodium sulfite"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "450 ppm",
+      "restrictions": "Not in meat products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701174"
+  },
+  {
+    "ingredient_id": "E222",
+    "standard_name": "Sodium bisulfite",
+    "e_number": "E222",
+    "chemical_name": "Sodium bisulfite",
+    "common_names": [
+      "Sodium bisulfite",
+      "sodium hydrogen sulfite"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "450 ppm",
+      "restrictions": "Not in meat products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701177"
+  },
+  {
+    "ingredient_id": "E223",
+    "standard_name": "Sodium metabisulfite",
+    "e_number": "E223",
+    "chemical_name": "Sodium metabisulfite",
+    "common_names": [
+      "Sodium metabisulfite"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "450 ppm",
+      "restrictions": "Not in meat products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701181"
+  },
+  {
+    "ingredient_id": "E224",
+    "standard_name": "Potassium metabisulfite",
+    "e_number": "E224",
+    "chemical_name": "Potassium metabisulfite",
+    "common_names": [
+      "Potassium metabisulfite"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "450 ppm",
+      "restrictions": "Not in meat products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701185"
+  },
+  {
+    "ingredient_id": "E226",
+    "standard_name": "Calcium sulfite",
+    "e_number": "E226",
+    "chemical_name": "Calcium sulfite",
+    "common_names": [
+      "Calcium sulfite"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "450 ppm",
+      "restrictions": "Not in meat products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701192"
+  },
+  {
+    "ingredient_id": "E227",
+    "standard_name": "Calcium hydrogen sulfite",
+    "e_number": "E227",
+    "chemical_name": "Calcium hydrogen sulfite",
+    "common_names": [
+      "Calcium hydrogen sulfite",
+      "preservative"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "450 ppm",
+      "restrictions": "Not in meat products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701197"
+  },
+  {
+    "ingredient_id": "E228",
+    "standard_name": "Potassium hydrogen sulfite",
+    "e_number": "E228",
+    "chemical_name": "Potassium hydrogen sulfite",
+    "common_names": [
+      "Potassium hydrogen sulfite"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "450 ppm",
+      "restrictions": "Not in meat products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701201"
+  },
+  {
+    "ingredient_id": "E234",
+    "standard_name": "Nisin",
+    "e_number": "E234",
+    "chemical_name": "Nisin",
+    "common_names": [
+      "Nisin"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "12.5 ppm",
+      "restrictions": "Cheese only",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701204"
+  },
+  {
+    "ingredient_id": "E235",
+    "standard_name": "Natamycin",
+    "e_number": "E235",
+    "chemical_name": "Natamycin",
+    "common_names": [
+      "Natamycin",
+      "Pimaracin"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "10 ppm",
+      "restrictions": "Surface treatment only",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701208"
+  },
+  {
+    "ingredient_id": "E239",
+    "standard_name": "Hexamine",
+    "e_number": "E239",
+    "chemical_name": "Hexamine",
+    "common_names": [
+      "Hexamine",
+      "hexamethylene tetramine"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "25 ppm",
+      "restrictions": "Limited use",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701211"
+  },
+  {
+    "ingredient_id": "E242",
+    "standard_name": "Dimethyl dicarbonate",
+    "e_number": "E242",
+    "chemical_name": "Dimethyl dicarbonate",
+    "common_names": [
+      "Dimethyl dicarbonate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "250 ppm",
+      "restrictions": "Wine and beverages",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701215"
+  },
+  {
+    "ingredient_id": "E249",
+    "standard_name": "Potassium nitrite",
+    "e_number": "E249",
+    "chemical_name": "Potassium nitrite",
+    "common_names": [
+      "Potassium nitrite"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "120 ppm",
+      "restrictions": "Meat products only",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "Potential cancer risk identified by some authorities",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701223"
+  },
+  {
+    "ingredient_id": "E250",
+    "standard_name": "Sodium nitrite",
+    "e_number": "E250",
+    "chemical_name": "Sodium nitrite",
+    "common_names": [
+      "Sodium nitrite"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "120 ppm",
+      "restrictions": "Meat products only",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701226"
+  },
+  {
+    "ingredient_id": "E251",
+    "standard_name": "Sodium nitrate",
+    "e_number": "E251",
+    "chemical_name": "Sodium nitrate",
+    "common_names": [
+      "Sodium nitrate",
+      "Chile saltpetre"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Meat products only",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701230"
+  },
+  {
+    "ingredient_id": "E252",
+    "standard_name": "Potassium nitrate",
+    "e_number": "E252",
+    "chemical_name": "Potassium nitrate",
+    "common_names": [
+      "Potassium nitrate",
+      "Saltpetre"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Meat products only",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701234"
+  },
+  {
+    "ingredient_id": "E280",
+    "standard_name": "Propionic acid",
+    "e_number": "E280",
+    "chemical_name": "Propionic acid",
+    "common_names": [
+      "Propionic acid"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "3000 ppm",
+      "restrictions": "Bakery products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701237"
+  },
+  {
+    "ingredient_id": "E281",
+    "standard_name": "Sodium propionate",
+    "e_number": "E281",
+    "chemical_name": "Sodium propionate",
+    "common_names": [
+      "Sodium propionate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "3000 ppm",
+      "restrictions": "Bakery products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701241"
+  },
+  {
+    "ingredient_id": "E282",
+    "standard_name": "Calcium propionate",
+    "e_number": "E282",
+    "chemical_name": "Calcium propionate",
+    "common_names": [
+      "Calcium propionate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "3000 ppm",
+      "restrictions": "Bakery products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701244"
+  },
+  {
+    "ingredient_id": "E283",
+    "standard_name": "Potassium propionate",
+    "e_number": "E283",
+    "chemical_name": "Potassium propionate",
+    "common_names": [
+      "Potassium propionate"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "3000 ppm",
+      "restrictions": "Bakery products",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701247"
+  },
+  {
+    "ingredient_id": "E284",
+    "standard_name": "Boric acid",
+    "e_number": "E284",
+    "chemical_name": "Boric acid",
+    "common_names": [
+      "Boric acid"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "5 ppm",
+      "restrictions": "Caviar only",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701251"
+  },
+  {
+    "ingredient_id": "E285",
+    "standard_name": "Sodium tetraborate",
+    "e_number": "E285",
+    "chemical_name": "Sodium tetraborate",
+    "common_names": [
+      "Sodium tetraborate",
+      "borax"
+    ],
+    "category": "preservative",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "5 ppm",
+      "restrictions": "Caviar only",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701254"
+  },
+  {
+    "ingredient_id": "E300",
+    "standard_name": "Ascorbic acid",
+    "e_number": "E300",
+    "chemical_name": "Ascorbic acid",
+    "common_names": [
+      "Ascorbic acid",
+      "vitamin C"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701259"
+  },
+  {
+    "ingredient_id": "E301",
+    "standard_name": "Sodium ascorbate",
+    "e_number": "E301",
+    "chemical_name": "Sodium ascorbate",
+    "common_names": [
+      "Sodium ascorbate"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701288"
+  },
+  {
+    "ingredient_id": "E302",
+    "standard_name": "Calcium ascorbate",
+    "e_number": "E302",
+    "chemical_name": "Calcium ascorbate",
+    "common_names": [
+      "Calcium ascorbate"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701292"
+  },
+  {
+    "ingredient_id": "E304",
+    "standard_name": "Fatty acid esters of ascorbic acid",
+    "e_number": "E304",
+    "chemical_name": "Fatty acid esters of ascorbic acid",
+    "common_names": [
+      "Fatty acid esters of ascorbic acid",
+      "Ascorbyl palmitate"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Fats and oils",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701296"
+  },
+  {
+    "ingredient_id": "E306",
+    "standard_name": "Tocopherols",
+    "e_number": "E306",
+    "chemical_name": "Tocopherols",
+    "common_names": [
+      "Tocopherols",
+      "Vitamin E",
+      "natural"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "300 ppm",
+      "restrictions": "Fats and oils",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701302"
+  },
+  {
+    "ingredient_id": "E307",
+    "standard_name": "Alpha-Tocopherol",
+    "e_number": "E307",
+    "chemical_name": "Alpha-Tocopherol",
+    "common_names": [
+      "Alpha-Tocopherol",
+      "synthetic"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "300 ppm",
+      "restrictions": "Fats and oils",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701306"
+  },
+  {
+    "ingredient_id": "E308",
+    "standard_name": "Gamma-Tocopherol",
+    "e_number": "E308",
+    "chemical_name": "Gamma-Tocopherol",
+    "common_names": [
+      "Gamma-Tocopherol",
+      "synthetic"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "300 ppm",
+      "restrictions": "Fats and oils",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701310"
+  },
+  {
+    "ingredient_id": "E309",
+    "standard_name": "Delta-Tocopherol",
+    "e_number": "E309",
+    "chemical_name": "Delta-Tocopherol",
+    "common_names": [
+      "Delta-Tocopherol",
+      "synthetic"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "300 ppm",
+      "restrictions": "Fats and oils",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701314"
+  },
+  {
+    "ingredient_id": "E310",
+    "standard_name": "Propyl gallate",
+    "e_number": "E310",
+    "chemical_name": "Propyl gallate",
+    "common_names": [
+      "Propyl gallate"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm",
+      "restrictions": "Fats and oils",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701317"
+  },
+  {
+    "ingredient_id": "E311",
+    "standard_name": "Octyl gallate",
+    "e_number": "E311",
+    "chemical_name": "Octyl gallate",
+    "common_names": [
+      "Octyl gallate"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm",
+      "restrictions": "Fats and oils",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701320"
+  },
+  {
+    "ingredient_id": "E312",
+    "standard_name": "Dodecyl gallate",
+    "e_number": "E312",
+    "chemical_name": "Dodecyl gallate",
+    "common_names": [
+      "Dodecyl gallate"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "100 ppm",
+      "restrictions": "Fats and oils",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701324"
+  },
+  {
+    "ingredient_id": "E315",
+    "standard_name": "Erythorbic acid",
+    "e_number": "E315",
+    "chemical_name": "Erythorbic acid",
+    "common_names": [
+      "Erythorbic acid"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Limited use",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701327"
+  },
+  {
+    "ingredient_id": "E316",
+    "standard_name": "Sodium erythorbate",
+    "e_number": "E316",
+    "chemical_name": "Sodium erythorbate",
+    "common_names": [
+      "Sodium erythorbate"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Limited use",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701330"
+  },
+  {
+    "ingredient_id": "E319",
+    "standard_name": "tert-Butylhydroquinone",
+    "e_number": "E319",
+    "chemical_name": "tert-Butylhydroquinone",
+    "common_names": [
+      "tert-Butylhydroquinone",
+      "TBHQ"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "200 ppm",
+      "restrictions": "Fats and oils",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701335"
+  },
+  {
+    "ingredient_id": "E320",
+    "standard_name": "Butylated hydroxyanisole",
+    "e_number": "E320",
+    "chemical_name": "Butylated hydroxyanisole",
+    "common_names": [
+      "Butylated hydroxyanisole",
+      "BHA"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "200 ppm in fats and oils",
+      "restrictions": "Limited use",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701338"
+  },
+  {
+    "ingredient_id": "E321",
+    "standard_name": "Butylated hydroxytoluene",
+    "e_number": "E321",
+    "chemical_name": "Butylated hydroxytoluene",
+    "common_names": [
+      "Butylated hydroxytoluene",
+      "BHT"
+    ],
+    "category": "antioxidant",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "200 ppm",
+      "restrictions": "Fats and oils",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701342"
+  },
+  {
+    "ingredient_id": "E322",
+    "standard_name": "Lecithin",
+    "e_number": "E322",
+    "chemical_name": "Lecithin",
+    "common_names": [
+      "Lecithin"
+    ],
+    "category": "acidity_regulator",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701346"
+  },
+  {
+    "ingredient_id": "E620",
+    "standard_name": "Glutamic acid",
+    "e_number": "E620",
+    "chemical_name": "Glutamic acid",
+    "common_names": [
+      "Glutamic acid"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701350"
+  },
+  {
+    "ingredient_id": "E621",
+    "standard_name": "Monosodium glutamate",
+    "e_number": "E621",
+    "chemical_name": "Monosodium glutamate",
+    "common_names": [
+      "Monosodium glutamate",
+      "MSG"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared on label",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701354"
+  },
+  {
+    "ingredient_id": "E622",
+    "standard_name": "Monopotassium glutamate",
+    "e_number": "E622",
+    "chemical_name": "Monopotassium glutamate",
+    "common_names": [
+      "Monopotassium glutamate"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701357"
+  },
+  {
+    "ingredient_id": "E623",
+    "standard_name": "Calcium diglutamate",
+    "e_number": "E623",
+    "chemical_name": "Calcium diglutamate",
+    "common_names": [
+      "Calcium diglutamate"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701361"
+  },
+  {
+    "ingredient_id": "E624",
+    "standard_name": "Monoammonium glutamate",
+    "e_number": "E624",
+    "chemical_name": "Monoammonium glutamate",
+    "common_names": [
+      "Monoammonium glutamate"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701365"
+  },
+  {
+    "ingredient_id": "E625",
+    "standard_name": "Magnesium diglutamate",
+    "e_number": "E625",
+    "chemical_name": "Magnesium diglutamate",
+    "common_names": [
+      "Magnesium diglutamate"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701370"
+  },
+  {
+    "ingredient_id": "E626",
+    "standard_name": "Guanylic acid",
+    "e_number": "E626",
+    "chemical_name": "Guanylic acid",
+    "common_names": [
+      "Guanylic acid"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701373"
+  },
+  {
+    "ingredient_id": "E627",
+    "standard_name": "Disodium guanylate",
+    "e_number": "E627",
+    "chemical_name": "Disodium guanylate",
+    "common_names": [
+      "Disodium guanylate",
+      "sodium guanylate"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701377"
+  },
+  {
+    "ingredient_id": "E628",
+    "standard_name": "Dipotassium guanylate",
+    "e_number": "E628",
+    "chemical_name": "Dipotassium guanylate",
+    "common_names": [
+      "Dipotassium guanylate"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701381"
+  },
+  {
+    "ingredient_id": "E629",
+    "standard_name": "Calcium guanylate",
+    "e_number": "E629",
+    "chemical_name": "Calcium guanylate",
+    "common_names": [
+      "Calcium guanylate"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701386"
+  },
+  {
+    "ingredient_id": "E630",
+    "standard_name": "Inosinic acid",
+    "e_number": "E630",
+    "chemical_name": "Inosinic acid",
+    "common_names": [
+      "Inosinic acid"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701389"
+  },
+  {
+    "ingredient_id": "E631",
+    "standard_name": "Disodium inosinate",
+    "e_number": "E631",
+    "chemical_name": "Disodium inosinate",
+    "common_names": [
+      "Disodium inosinate"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701393"
+  },
+  {
+    "ingredient_id": "E632",
+    "standard_name": "Dipotassium inosinate",
+    "e_number": "E632",
+    "chemical_name": "Dipotassium inosinate",
+    "common_names": [
+      "Dipotassium inosinate"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701396"
+  },
+  {
+    "ingredient_id": "E633",
+    "standard_name": "Calcium inosinate",
+    "e_number": "E633",
+    "chemical_name": "Calcium inosinate",
+    "common_names": [
+      "Calcium inosinate"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701400"
+  },
+  {
+    "ingredient_id": "E634",
+    "standard_name": "Calcium 5'-ribonucleotides",
+    "e_number": "E634",
+    "chemical_name": "Calcium 5'-ribonucleotides",
+    "common_names": [
+      "Calcium 5'-ribonucleotides"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701403"
+  },
+  {
+    "ingredient_id": "E635",
+    "standard_name": "Disodium 5'-ribonucleotides",
+    "e_number": "E635",
+    "chemical_name": "Disodium 5'-ribonucleotides",
+    "common_names": [
+      "Disodium 5'-ribonucleotides"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "500 ppm",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701406"
+  },
+  {
+    "ingredient_id": "E640",
+    "standard_name": "Glycine and its sodium salt",
+    "e_number": "E640",
+    "chemical_name": "Glycine and its sodium salt",
+    "common_names": [
+      "Glycine and its sodium salt"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701410"
+  },
+  {
+    "ingredient_id": "E650",
+    "standard_name": "Zinc acetate",
+    "e_number": "E650",
+    "chemical_name": "Zinc acetate",
+    "common_names": [
+      "Zinc acetate"
+    ],
+    "category": "flavor_enhancer",
+    "india": {
+      "status": "approved",
+      "authority": "FSSAI",
+      "limits": "GMP",
+      "restrictions": "Must be declared",
+      "source": "FSSAI Food Safety Standards (Food Products Standards and Food Additives) Regulations, 2011"
+    },
+    "eu": {
+      "status": "approved",
+      "authority": "EFSA",
+      "limits": "Quantum satis",
+      "restrictions": "Standard labeling requirements",
+      "source": "EU Regulation 1333/2008"
+    },
+    "us": {
+      "status": "not_listed",
+      "authority": "FDA",
+      "limits": "No direct FDA listing identified in current source set",
+      "restrictions": "No direct FDA listing identified; verify latest FDA Food Additive Status List",
+      "source": "FDA CFR"
+    },
+    "notes": "",
+    "data_version": "2.0",
+    "last_updated": "2026-03-08T22:54:41.701413"
+  }
+]
